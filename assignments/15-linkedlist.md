@@ -5,13 +5,13 @@
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode` y
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode` y
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode` y
-- [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
+- [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode` y
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung` y
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)`leetcode` y
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `leetcode`  
-- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
+- [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode` y
 
 ## Medium
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
