@@ -20,36 +20,36 @@
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) y
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) y
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) y
-- [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
-- [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
-- [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
-- [Binary Search](https://leetcode.com/problems/binary-search/)
+- [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) y
+- [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) y
+- [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) y
+- [Binary Search](https://leetcode.com/problems/binary-search/) y
 
 ## Medium
-- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) y
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) y
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) y
+- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) y
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) y
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element/) y
 - [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 - [Reach a Number](https://leetcode.com/problems/reach-a-number/)
 - [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
-- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) y
 - [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-- [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
+- [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) y
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
-- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) y
+- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) y
 - [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
-- [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/) y
+- [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/) y
+- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) y
 - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 - [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
